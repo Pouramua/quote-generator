@@ -1,0 +1,48 @@
+@import url(http://fonts.googleapis.com/css?family=Pacifico|Open+Sans|Montserrat);
+
+body {
+  text-align: center;
+  width: 600px;
+  margin: 0px auto;
+  background-color: #cdcdcd;
+  font-family: 'Pacifico';
+  background: black;
+
+}
+
+h1{
+    font-family: 'Pacifico';
+    margin: 10px auto;
+    font-size: 45px;
+    color: pink;
+}
+
+#quote {
+  font-family: 'Pacifico';
+  font-size: 30px;
+  width: 600px;
+  height: auto;
+  margin: auto;
+  background-color: white;
+  padding: 20px;
+  border-radius: 20px;
+  color: pink;
+}
+
+#author {
+  font-style: italic;
+  font-size: 20px;
+  color: grey;
+}
+
+.button {
+  font-family: 'Pacifico';
+  height: 50px;
+  width: 150px;
+  margin: 20px auto;
+  color: pink;
+  background-color: white;
+  text-align: center;
+  font-size: 25px;
+  border-radius: 20px;
+}
